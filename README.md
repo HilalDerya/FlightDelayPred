@@ -39,3 +39,9 @@ False negatives (predicted on-time, was delayed): 6,400
 
 
 <img width="1489" height="1189" alt="indir" src="https://github.com/user-attachments/assets/c66365b2-0c9a-465f-badd-6216dc26fefc" />
+
+## Tech Stack
+
+- **Language:** Python 3
+- **Platform:** Google Colab
+- **Libraries:** pandas, numpy, scikit-learn, xgboost, matplotlib, seaborn
